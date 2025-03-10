@@ -38,12 +38,7 @@ ninja.data = [{
             },},{id: "news-first-post-more-to-come",
           title: 'First post, more to come!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
