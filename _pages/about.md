@@ -18,7 +18,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Ph.D. Candidate in the Department of Mechanical Engineering at Vanderbilt University. I work in the [Advanced Robotics and Mechanism Applications (ARMA) Lab]([http://arma.vuse.vanderbilt.edu/]) under [Dr. Nabil Simaan]([http://arma.vuse.vanderbilt.edu/index.php/people?id=75]).
+I am a Ph.D. Candidate in the Department of Mechanical Engineering at Vanderbilt University. I work in the [Advanced Robotics and Mechanism Applications (ARMA) Lab]([http://arma.vuse.vanderbilt.edu/]) under [Dr. Nabil Simaan]([http://arma.vuse.vanderbilt.edu/index.php/people?id=75]). My dissertation research looks into enabling image and sensory-guided control of steerable robotic catheters for neurointervention. This work combines mechatronics, flexible rod modeling, fluoroscopic image segmentation, and control algorithms.
+
+My first experiences with surgical robotics were as a undergraduate intern at [Medtronic]([https://www.medtronic.com/en-us/healthcare-professionals/specialties/surgical-robotics/robotic-assisted-surgery.html]), where I contributed first as a quality engineering intern on the surgeon console team before becoming a mechanical design intern on the surgical instrumentation team. After graduating from Boston University with a B.S. in Mechanical Engineering, I began working at [Neocis, Inc.]([https://www.neocis.com/]) as a mechanical engineer on the YOMI robot-assisted dental surgery platform. 
+
+While I loved my work at both companies, I found myself wanting to contribute not only on mechanical design, but on all aspects of the robotic systems, including modeling and control software. That led to me ultimately to my current graduate studies at Vanderbilt with Dr. Simaan, and I am still today as eager to learn and innovate as when I first began!
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
