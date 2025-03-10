@@ -102,9 +102,9 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
   projects:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
