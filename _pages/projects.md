@@ -10,7 +10,6 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<!--
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -38,7 +37,7 @@ horizontal: false
   {% endif %}
   {% endfor %}
 
-{% else %} -->
+{% else %}
 
 <!-- Display projects without categories -->
 
