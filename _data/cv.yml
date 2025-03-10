@@ -23,67 +23,55 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Ph.D. Candidate
+      institution: Deparment of Mechanical Engineering, Vanderbilt University
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Steerable robotic catheter design
+        - Continuum manipulator modeling
+        - Pose estimation of catheters under fluoroscopy
+        - Sensing of catheter interactions with environment (clots, vasculature)
+    - title: Mechanical Engineer
+      institution: Neocis Inc., Miami, Florida, US
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Mechanical design of surgeon-interfacing subassembly translating haptic control to surgical drill.
+        - Supported electrical engineers in system design to ensure compliance with IEC 60601
+        - Delivered surgical case, field service, and system installation support in sites across the United States
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Mechanical Engineering Intern
+      institution: Medtronic, North Haven, Connecticut, US
+      year: 2017 - 2018
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Designed subassemblies within the electro-mechanical subsystem enabling transmission of surgical instruments
+        - Designed test fixture sub-assemblies and managing assemblies through product lifecycle
+        - Collaborated with Electrical, Software and Test Engineers to develop and execute test methods and reports
+    - title: Design Quality Engineering Intern
+      institution: Medtronic, Boston, Massachusetts, US
+      year: 2016 - 2017
+      description:
+        - Conducted Risk Management deliverables, including DFMECA, PFMEA, and Fault Handling, which contributed to the development of a safe and effective surgical robotics platform
+        - Collaborated with Mechanical, Electrical, and Software Engineers to ensure any possible failure is mitigated through their designs, by reviewing technical drawings and developing fixtures to test system components
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - NIH (NIBIB) T32EB021937 Training Grant
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Russell G. Hamilton Scholar, Vanderbilt University
+        - Engineering Graduate Fellowship, Vanderbilt University
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
