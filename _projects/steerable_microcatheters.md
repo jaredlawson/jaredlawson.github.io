@@ -16,6 +16,6 @@ We have developed steerable catheters at a scale suitable for navigation into th
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    This prototype is 0.88mm OD and 0.45mm ID with similar compliance to commercially-available catheters.
 </div>
 
