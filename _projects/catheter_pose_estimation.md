@@ -8,6 +8,8 @@ category: work
 related_publications: true
 ---
 
+Catheters navigated in the brain are inserted, rotated about their central axis, and in the case of steerability, they can be deflected to bend in certain directions. As we look to automate or control these motions, we rely on pose estimation of where the catheters are and how they will move if steered from their current configuration. In the case of neurointervention, the only feedback modality available is biplane fluoroscopy, in which radiopaque features on the catheter are segmented in two views. In this work, we focus not only on segmentation of certain catheter features, but also point
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
