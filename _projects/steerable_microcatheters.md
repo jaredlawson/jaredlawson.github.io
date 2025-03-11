@@ -2,7 +2,7 @@
 layout: page
 title: Steerable Microcatheters
 description: Design and Fabrication
-img: assets/img/12.jpg
+img: assets/img/bent_microcatheter.jpg
 importance: 1
 category: work
 related_publications: true
