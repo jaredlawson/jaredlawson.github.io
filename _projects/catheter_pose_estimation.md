@@ -16,5 +16,5 @@ Catheters navigated in the brain are inserted, rotated about their central axis,
     </div>
 </div>
 <div class="caption">
-    This image is from {% cite abah2024self %}.
+    This figure shows our mock biplane imaging setup, with the steerable catheter segmented in a side and front viewing plane. This image is from {% cite lawson2023model %}.
 </div>
