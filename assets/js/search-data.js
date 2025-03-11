@@ -38,7 +38,12 @@ ninja.data = [{
             },},{id: "news-first-post-more-to-come",
           title: 'First post, more to come!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-steerable-microcatheters",
+          title: 'Steerable Microcatheters',
+          description: "Design and Fabrication",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/steerable_microcatheters.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
