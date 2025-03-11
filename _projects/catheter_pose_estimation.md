@@ -16,5 +16,5 @@ Catheters navigated in the brain are inserted, rotated about their central axis,
     </div>
 </div>
 <div class="caption">
-    This image is from .
+    This image is from {% cite abah2024self %}.
 </div>
