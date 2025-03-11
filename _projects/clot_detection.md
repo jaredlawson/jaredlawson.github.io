@@ -2,7 +2,7 @@
 layout: page
 title: Clot Detection
 description: Sensing and ML
-img: assets/img/12.jpg
+img: assets/img/catheter_in_clot.jpg
 importance: 3
 category: work
 related_publications: true
