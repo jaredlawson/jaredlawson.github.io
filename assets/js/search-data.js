@@ -38,7 +38,17 @@ ninja.data = [{
             },},{id: "news-first-post-more-to-come",
           title: 'First post, more to come!',
           description: "",
-          section: "News",},{id: "projects-steerable-microcatheters",
+          section: "News",},{id: "projects-pose-estimation",
+          title: 'Pose Estimation',
+          description: "Modeling and Sensing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/catheter_pose_estimation.html";
+            },},{id: "projects-clot-detection",
+          title: 'Clot Detection',
+          description: "Sensing and ML",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/clot_detection.html";
+            },},{id: "projects-steerable-microcatheters",
           title: 'Steerable Microcatheters',
           description: "Design and Fabrication",
           section: "Projects",handler: () => {
