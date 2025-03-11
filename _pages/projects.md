@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Project details to come.
+description: Some of my work at Vanderbilt
 nav: true
 nav_order: 2
 display_categories: [work, fun]
