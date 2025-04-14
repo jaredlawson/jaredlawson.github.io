@@ -2,7 +2,7 @@
 layout: page
 title: Servo Continuum Wrist
 description:
-img: assets/img/12.jpg
+img: assets/img/bent_wire_actuated_tube.jpg
 importance: 1
 category: fun
 related_publications: false
