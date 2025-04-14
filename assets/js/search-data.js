@@ -48,6 +48,11 @@ ninja.data = [{
           description: "Sensing and ML",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clot_detection.html";
+            },},{id: "projects-servo-continuum-wrist",
+          title: 'Servo Continuum Wrist',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/servo_continuum_wrist.html";
             },},{id: "projects-steerable-microcatheters",
           title: 'Steerable Microcatheters',
           description: "Design and Fabrication",
