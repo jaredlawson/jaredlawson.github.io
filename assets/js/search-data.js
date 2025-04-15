@@ -38,7 +38,12 @@ ninja.data = [{
             },},{id: "news-first-post-more-to-come",
           title: 'First post, more to come!',
           description: "",
-          section: "News",},{id: "projects-pose-estimation",
+          section: "News",},{id: "projects-catheter-handle-mechanism",
+          title: 'Catheter Handle Mechanism',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/catheter_handle_mechanism.html";
+            },},{id: "projects-pose-estimation",
           title: 'Pose Estimation',
           description: "Modeling and Sensing",
           section: "Projects",handler: () => {
