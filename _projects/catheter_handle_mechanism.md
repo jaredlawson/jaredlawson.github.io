@@ -1,0 +1,11 @@
+---
+layout: page
+title: Catheter Handle Mechanism
+description:
+img: assets/img/12.jpg
+importance: 2
+category: fun
+related_publications: false
+---
+
+When rapidly prototyping our steerable catheters, sometimes we need to quickly deploy them in a vessel and see how their steerability compares to standard, passive catheters. I designed this simple handle mechanism to quickly get the steerability of our catheter in the hand of our clinical collaborator, without requiring full deployment of our robotic system.
