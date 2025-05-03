@@ -2,7 +2,7 @@
 layout: page
 title: Catheter Handle Mechanism
 description:
-img: assets/img/12.jpg
+img: assets/img/handle_closeup.jpg
 importance: 2
 category: fun
 related_publications: false
