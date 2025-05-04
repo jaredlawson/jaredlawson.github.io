@@ -53,6 +53,11 @@ ninja.data = [{
           description: "Sensing and ML",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clot_detection.html";
+            },},{id: "projects-modeling-catheter-interaction",
+          title: 'Modeling Catheter Interaction',
+          description: "Modeling, Planning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/modeling_interaction.html";
             },},{id: "projects-servo-continuum-wrist",
           title: 'Servo Continuum Wrist',
           description: "",
