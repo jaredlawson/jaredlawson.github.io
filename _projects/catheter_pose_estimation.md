@@ -3,7 +3,7 @@ layout: page
 title: Pose Estimation
 description: Modeling and Sensing
 img: assets/img/projection_planes.jpg
-importance: 3
+importance: 4
 category: work
 related_publications: true
 ---
