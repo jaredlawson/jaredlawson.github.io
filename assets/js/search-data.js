@@ -53,6 +53,11 @@ ninja.data = [{
           description: "Sensing and ML",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clot_detection.html";
+            },},{id: "projects-compliance-of-continuum-wrists",
+          title: 'Compliance of Continuum Wrists',
+          description: "Modeling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/compliance_continuum_wires.html";
             },},{id: "projects-modeling-catheter-interaction",
           title: 'Modeling Catheter Interaction',
           description: "Modeling, Planning",
