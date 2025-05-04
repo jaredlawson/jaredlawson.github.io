@@ -19,3 +19,13 @@ We have developed steerable catheters at a scale suitable for navigation into th
     This prototype is 0.88mm OD and 0.45mm ID with similar compliance to commercially-available catheters.
 </div>
 
+As an example, below is a video of a steerable microcatheter navigating the tortuous aortic arch (of a phantom model). This navigation is performed without a guidewire or a support catheter, which would be required for standard, existing catheters.
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/manual_steerable_insertion.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+
+
