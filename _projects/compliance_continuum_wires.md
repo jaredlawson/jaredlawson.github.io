@@ -11,15 +11,15 @@ related_publications: true
 In {% cite shihora2025use %}, we explore kinematic and compliance properties of wire-actuated continuum wrists. The main contribution of this work, led by [Dr. Neel Shihora](https://neelshihora.github.io/), was to explicitly define tension-transition zones for these devices and to explore the comparative performance of 3-wire vs. 4-wire designs.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/continuum_segment_nomenclature.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/continuum_segment_nomenclature.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wire_tension_map_3_wire_configuration.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wire_map_3_wire_configuration.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wire_tension_map_4_wire_configuration.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wire_map_4_wire_configuration.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
