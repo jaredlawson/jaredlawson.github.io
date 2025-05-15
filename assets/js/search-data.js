@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-first-post-more-to-come",
+        },{id: "news-first-post-more-to-come",
           title: 'First post, more to come!',
           description: "",
           section: "News",},{id: "projects-catheter-handle-mechanism",
