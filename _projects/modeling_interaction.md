@@ -3,7 +3,7 @@ layout: page
 title: Modeling Catheter Interaction
 description: Modeling, Planning
 img: assets/img/environment_interaction.png
-importance: 3
+importance: 2
 category: work
 related_publications: false
 ---
