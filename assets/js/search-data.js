@@ -66,6 +66,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/servo_continuum_wrist.html";
+            },},{id: "projects-biplane-shape-sensing",
+          title: 'Biplane Shape Sensing',
+          description: "Modeling and Sensing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shape_tracking_fluoro.html";
             },},{id: "projects-steerable-microcatheters",
           title: 'Steerable Microcatheters',
           description: "Design and Fabrication",
