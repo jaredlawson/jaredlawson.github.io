@@ -3,7 +3,7 @@ layout: page
 title: Compliance of Continuum Wrists
 description: Modeling
 img: assets/img/wire_segment.JPG
-importance: 6
+importance: 5
 category: work
 related_publications: true
 ---
