@@ -2,7 +2,7 @@
 layout: page
 title: Biplane Shape Sensing
 description: Modeling and Sensing
-img: assets/img/helical_cath_frames.jpg
+img: assets/img/helical_cath_frames.JPG
 importance: 2
 category: work
 related_publications: true
