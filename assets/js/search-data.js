@@ -30,7 +30,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-first-post-more-to-come",
+        },{id: "news-neel-shihora-s-led-work-on-wire-actuated-continuum-robotics-with-tension-transition-zones-published-online-in-asme-journal-of-mechanisms-and-robotics",
+          title: 'Neel Shihora’s led work on wire-actuated continuum robotics with tension-transition zones published online...',
+          description: "",
+          section: "News",},{id: "news-first-post-more-to-come",
           title: 'First post, more to come!',
           description: "",
           section: "News",},{id: "news-check-out-fluoroscopic-shape-and-pose-tracking-of-catheters-with-custom-radiopaque-markers-in-robotics-and-automation-letters",
